@@ -376,6 +376,7 @@ border-top:4px solid #2E8B57;
 color:#BBBBBB;
 
 }
+
 /* ---------- COVER IMAGES ---------- */
 
 .album-cover{
@@ -423,6 +424,7 @@ margin:0 auto 25px;
 border-radius:50%;
 
 }
+
 /* ---------- MOBILE ---------- */
 
 @media(max-width:768px){
